@@ -16,14 +16,6 @@ This repository provides a simple graphical user interface (GUI) for an Autonomo
 
 ---
 
-## Screenshots
-
-| Splash Screen | Main Menu |
-|---------------|-----------|
-| ![Splash](docs/splash_example.png) | ![Menu](docs/menu_example.png) |
-
----
-
 ## Requirements
 
 - Jetson Nano (Ubuntu 18.04 or later)
