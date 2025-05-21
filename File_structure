@@ -1,0 +1,7 @@
+.
+├── amr_ui.py              # Main UI application
+├── splash_image.png       # Image shown on splash screen
+├── docs/
+│   ├── splash_example.png # Optional screenshots
+│   └── menu_example.png
+└── README.md
