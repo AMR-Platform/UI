@@ -1,0 +1,7 @@
+amr_gui/
+├── main.py
+├── splash.png
+└── scripts/
+├── start_slam.py
+├── start_teleop.py
+└── diagnostics.py
